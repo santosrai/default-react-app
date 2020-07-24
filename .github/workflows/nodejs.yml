@@ -24,3 +24,5 @@ jobs:
         npm test
       env:
         CI: true
+    - name: GitHub Push
+      uses: ad-m/github-push-action@v0.6.0
