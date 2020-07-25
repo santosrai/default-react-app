@@ -1,5 +1,6 @@
 {
   "name": "default-react-app",
+  "homepage": "https://gitsanto.github.io/default-react-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
